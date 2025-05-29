@@ -1,0 +1,25 @@
+Monitor
+Keyboard
+Mouse
+Processor
+Memory
+Hard Drive
+Software
+Hardware
+Operating System
+Application
+Network
+Internet
+Router
+Modem
+Firewall
+Virus
+Antivirus
+Backup
+Cloud
+Server
+Client
+Database
+Algorithm
+Programming
+Byte
